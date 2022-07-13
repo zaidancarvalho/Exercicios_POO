@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Felipe\Desktop\java completo poo +projetos\Poo_Exercicios\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2014957666.index
+4081797655.index
